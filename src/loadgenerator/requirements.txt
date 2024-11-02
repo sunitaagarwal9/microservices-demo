@@ -27,7 +27,7 @@ flask-cors==4.0.0
     # via locust
 flask-login==0.6.3
     # via locust
-gevent==24.2.1
+gevent==24.10.1
     # via
     #   geventhttpclient
     #   locust
@@ -61,7 +61,7 @@ six==1.16.0
     # via geventhttpclient
 urllib3==2.2.1
     # via requests
-werkzeug==3.0.1
+werkzeug==3.0.6
     # via
     #   flask
     #   flask-login
